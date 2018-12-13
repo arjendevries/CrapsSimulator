@@ -1,0 +1,11 @@
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\bin\Debug\netcoreapp2.1\CrapsSimulator.deps.json
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\bin\Debug\netcoreapp2.1\CrapsSimulator.runtimeconfig.json
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\bin\Debug\netcoreapp2.1\CrapsSimulator.runtimeconfig.dev.json
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\bin\Debug\netcoreapp2.1\CrapsSimulator.dll
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\bin\Debug\netcoreapp2.1\CrapsSimulator.pdb
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.csprojAssemblyReference.cache
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.csproj.CoreCompileInputs.cache
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.AssemblyInfoInputs.cache
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.AssemblyInfo.cs
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.dll
+C:\PersonalCode\CrapsSimulator\CrapsSimulator\obj\Debug\netcoreapp2.1\CrapsSimulator.pdb
