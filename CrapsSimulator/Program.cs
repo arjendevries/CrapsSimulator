@@ -137,6 +137,9 @@ namespace CrapsSimulator
 
             Console.WriteLine("\n");
 
+            Console.WriteLine($"Total Rolls: {totalRolls}");
+            Console.WriteLine($"Avg Rolls per Run: { (double)totalRolls / totalRuns}\n");
+
             //Die one freq
             var sortedDieOneFrequency = dieOneFrequency.OrderBy(x => x.Key);
 
@@ -169,6 +172,8 @@ namespace CrapsSimulator
             }
 
             Console.WriteLine("\n");
+
+
         }
         public static void DisplayRuns(IEnumerable<Run> runs)
         {
